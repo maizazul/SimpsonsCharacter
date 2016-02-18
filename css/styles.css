@@ -3,7 +3,7 @@ body {
 }
 
 .jumbotron {
-  background-image:   url("http://www.headstuff.org/wp-content/uploads/2015/03/the-simpsons-tv-series-cast-wallpaper-109911.jpg");
+  background-image:url("../img/simpsons.jpg");
   /*background-position: 0% 25%;*/
   background-size: cover;
   background-repeat: no-repeat;
@@ -16,4 +16,33 @@ body {
   text-transform: uppercase;
   padding-top: 100px;
   padding-bottom: 100px;
+}
+
+h3 {
+  text-align: center;
+  color: black;
+  font-size: 60px;
+}
+
+#container1 {
+  display: none;
+}
+
+#container2 {
+  display: none;
+}
+
+#container3 {
+  display: none;
+}
+#container4 {
+  display: none;
+}
+
+#tulum {
+  display: none;
+}
+
+#cairns {
+  display: none;
 }
